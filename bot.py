@@ -90,7 +90,7 @@ def blink_text(text, times=3, delay=0.3):
         time.sleep(delay)
 
 # ───────────── Matrix Background ─────────────
-def matrix_background("https://i.ibb.co/x41JSZv/5fa2caa8d69b904b3a63c5d58535f7c1.jpg"):
+def matrix_background(https://i.ibb.co/x41JSZv/5fa2caa8d69b904b3a63c5d58535f7c1.jpg):
     width = 120
     chars = "01"
     while True:
@@ -170,4 +170,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 
